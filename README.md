@@ -20,6 +20,7 @@
   - [Passive Skills](#passive-skills)
   - [Requirements](#requirements)
 - [Items](#items)
+  - [Inventory](#inventory)
 - [Equipment](#equipment)
   - [Held Equipment](#held-equipment)
   - [Worn Equipment](#worn-equipment)
@@ -28,6 +29,16 @@
   - [Physical Struggles](#physical-struggles)
   - [Mental Struggles](#mental-struggles)
 - [Attributes](#attributes)
+- [Leveling](#leveling)
+  - [Experience](#experience)
+- [Currency](#currency)
+- [Relationships](#relationships)
+  - [Allies](#allies)
+  - [Friends](#friends)
+  - [Enemies](#enemies)
+  - [Adversaries](#adversaries)
+- [Quirks](#quirks)
+- [Character Backstory](#character-backstory)
 
 ---
 
@@ -81,7 +92,25 @@ The player layout has a quite large Field region due to how many cards need to b
 
 ### Player Reference
 
-// TODO
+* **Experience Slot:** See [Experience](#experience) for more information. // TODO
+
+* **Money Slot:** See [Currency](#currency) for more information. // TODO
+
+* **Skills Slot:** See [Skills](#skills) for more information. // TODO
+
+* **Inventory Slot:** See [Inventory](#inventory) for more information. // TODO
+
+* **Allies Slot:** See [Allies](#allies) for more information. // TODO
+
+* **Friends Slot:** See [Friends](#friends) for more information. // TODO
+
+* **Enemies Slot:** See [Enemies](#enemies) for more information. // TODO
+
+* **Adversaries Slot:** See [Adversaries](#adversaries) for more information. // TODO
+
+* **Tragic Backstory Slot:** See [Character Backstory](#character-backstory) for more information. // TODO
+
+* **Quirk Slots Slot:** See [Quirks](#quirks) for more information. // TODO
 
 ## Campaigner
 
@@ -128,6 +157,10 @@ Some skill cards, both passive and active skills, have requirements that must be
 
 // TODO
 
+## Inventory
+
+// TODO
+
 # Equipment
 
 // TODO
@@ -157,5 +190,45 @@ Some skill cards, both passive and active skills, have requirements that must be
 // TODO
 
 # Attributes
+
+// TODO
+
+# Leveling
+
+// TODO
+
+## Experience
+
+// TODO
+
+# Currency
+
+// TODO
+
+# Relationships
+
+// TODO
+
+## Allies
+
+// TODO
+
+## Friends
+
+// TODO
+
+## Enemies
+
+// TODO
+
+## Adversaries
+
+// TODO
+
+# Quirks
+
+// TODO
+
+# Character Backstory
 
 // TODO
