@@ -14,6 +14,9 @@
 - [Roles](#roles)
   - [Campaigner](#campaigner)
   - [Character](#character)
+- [Cards](#cards)
+  - [Skills](#skills)
+    - [Requirements](#requirements)
 
 ---
 
@@ -34,3 +37,30 @@ The campaigner is given a series of missions to complete by the chosen senario o
 ### Character
 
 All players who choose the role of a character take control of a fictional character to play as one of the main characters in the storyline. Their job is to grow stronger and strive to complete the missions provided to them by the campaigner.
+
+## Cards
+
+### Skills
+
+#### Requirements
+
+Some skill cards, both passive and active skills, have requirements that must be met in order for them to be placed on the field. These skill requirements are listed on the card. These requirements may target the user, the ally party, the enemy, the enemy party, or the entire field. Some common skill requirements are as follows:
+
+* Requires Passive Skill (Or skill category)
+  * Requires that a specific passive skill, is present on the target.
+  * Example: Cannot use backstab unless using the stealth skill.
+* Requires Active Skill (Or skill category)
+  * Requires that the user players this card alongside another active skill, or in direct response to an active skill.
+  * Example: The bargaining skill cannot be used unless someone is using the trade skill.
+* Requires Item (Or item category)
+  * Requires the item to be played alongside this skill card in a combo, or in direct response to the enemy using the specified item.
+  * Example: Bind Opponent cannot be used without a rope-like item.
+* Requires Equipment (Or equipment category)
+  * Requires that a specific piece of equipment be worn or held by the target.
+  * Example: Stab cannot be used unless holding a sharp object.
+* Requires Attribute Range
+  * Requires that the base attribute value for the specified attribute 
+  * Example: Charisma must be above 10 to use Warm Smile.
+* Requires Environment State
+  * Requires a certain property of the environment to be present.
+  * Example: Shadow Stealth requires a dark environment.
