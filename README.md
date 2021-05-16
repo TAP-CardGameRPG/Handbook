@@ -1,10 +1,6 @@
-<h1 align="center">TAP Handbook</h1>
-
 <p align="center">
   <img src="images/logo.png" width="256"/>
 </p>
-
-<br/>
 
 ---
 
