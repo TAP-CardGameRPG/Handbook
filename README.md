@@ -7,9 +7,11 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
 - [About](#about)
-- [Roles](#roles)
+- [Terminology Reference](#terminology-reference)
+  - [Cards vs Decks vs Bags](#cards-vs-decks-vs-bags)
   - [Campaigner](#campaigner)
-  - [Character](#character)
+  - [Protagonist](#protagonist)
+  - [Actor](#actor)
 - [Board Layout](#board-layout)
   - [Player's Layout](#players-layout)
     - [Field](#field)
@@ -46,19 +48,35 @@
 
 TAP is a collective card game based role playing game. In the game of TAP, the setting and mood are just as important as the strategy and wit, the atmosphere creates a world saturated in imagination and cunning. The only limits in the game rest between the imagery in your mind and the cards in your hand.
 
-# Roles
+# Terminology Reference
 
-In the world of TAP, there are two roles that need to be filled. The role of the campainer and the role of the character. A single session must consist of exactly one campaigner, while all other players are characters.
+Throughout this document, there are several terminologies that are used constantly. These terminologies and their meanings are listed here for your convenience.
+
+## Cards vs Decks vs Bags
+
+In the game, there terms "Cards", "Decks" and "Bags" are used when describing objects or locations in the game. While these three terms describe similar concepts, they have unique differences.
+
+* **Card:** A card is an unmodifiable constant in the world that is used to describe an object or initialize a deck. An example of this might be an augmentation that can be applied to an item. The augmentation itself cannot be modified, but it can be added to an item deck to modify that item.
+
+* **Deck:** A deck is a unique object within the game. This can be an item instance, a character, a scene, and so on. All of the cards within this deck are used to describe various aspects of this object and how this object should behave. It's worth noting that a deck may often consist of a single card, such as a generic apple that has no note-worthy properties. A deck containing only a single card should not be confused with a card.
+
+* **Bag:** A bag is simply used to hold a list of decks or cards. It itself is not an object but a collection of objects or modifiers. An example of this might be a player's inventory that contains a list of item decks.
+
+* **Infinite Bag\*:** An infinite bag is a special type of bag who's contents are, well, infinite. It is assumed that an infinite bag contains an infinite amount of a single, specific card. This is often used when containing things such as money that is not being held by any player.
 
 ## Campaigner
 
-The Campaigner is the player who's job it to progress the story. While they do not have a playable character that they control, unlike other players, they take on the role of all other entities in the game. NPCs, monsters, environments, etc. It is their job to progress the story of the campaign above all else.
+The Campaigner is the player who's job it to progress the story. While they do not have a single actor that they control, unlike other players, they take on the role of all other entities in the game. Main characters, monsters, environments, etc. It is their job to progress the story of the campaign above all else.
 
-The campaigner is given a series of missions to complete by the chosen senario of the session and must guide the players along this storyline using any available resources in their disposal in order to complete these missions and move ahead.
+The campaigner is given a series of missions to complete by the chosen senario of the session and must guide the actors along this storyline using any available resources in their disposal in order to complete these missions and move ahead.
 
-## Character
+## Protagonist
 
-All players who choose the role of a character take control of a fictional character to play as one of the main characters in the storyline. Their job is to grow stronger and strive to complete the missions provided to them by the campaigner.
+All players who choose the role of an protagonist take control of an actor to play as one of the protagonists in the storyline. Their job is to grow stronger and strive to complete the missions provided to them by the campaigner.
+
+## Actor
+
+An actor is a being that exist within the game. This can be a player's character, a monster, a merchant in the market, a random cow in a grassy field, or a robot on some spaceship on the other side of the galaxy. All of these entities are considered actors within the game.
 
 # Board Layout
 
